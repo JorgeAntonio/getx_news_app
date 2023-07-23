@@ -1,4 +1,4 @@
-# news_app
+# Getx news_app
 
 A new Flutter project.
 

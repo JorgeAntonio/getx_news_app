@@ -1,6 +1,5 @@
 class CategoryList {
   static const List<String> categoryItems = [
-    'All',
     'Business',
     'Entertainment',
     'General',
